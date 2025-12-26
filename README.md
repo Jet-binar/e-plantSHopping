@@ -1,5 +1,7 @@
 # Paradise Nursery Shopping Application
 
+**Repository Name: e-plantShopping**
+
 A React-based shopping cart application for an online plant shop that offers a variety of houseplants.
 
 ## Features
